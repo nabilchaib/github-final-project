@@ -5,3 +5,5 @@ https://github.com/nabilchaib/github-final-project
 https://github.com/nabilchaib/github-final-project/blob/main/LICENSE
 
 https://github.com/nabilchaib/github-final-project/blob/main/README.md
+
+https://github.com/nabilchaib/github-final-project/blob/main/CODE_OF_CONDUCT.md
