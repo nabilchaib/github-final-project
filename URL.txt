@@ -1,3 +1,5 @@
 ##Saved URL for the course ##
 
 https://github.com/nabilchaib/github-final-project
+
+https://github.com/nabilchaib/github-final-project/blob/main/LICENSE
