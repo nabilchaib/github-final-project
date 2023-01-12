@@ -9,3 +9,9 @@ https://github.com/nabilchaib/github-final-project/blob/main/README.md
 https://github.com/nabilchaib/github-final-project/blob/main/CODE_OF_CONDUCT.md
 
 https://github.com/nabilchaib/github-final-project/blob/main/CONTRIBUTING.md
+
+https://github.com/nabilchaib/github-final-project/blob/main/simple-interest.sh
+
+https://github.com/nabilchaib/jbbmo-Introduction-to-Git-and-GitHub
+
+https://github.com/nabilchaib/jbbmo-Introduction-to-Git-and-GitHub/blob/master/README.md
